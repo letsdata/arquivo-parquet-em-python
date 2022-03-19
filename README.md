@@ -2,13 +2,13 @@
 
 Este é o repositório do código do vídeo Arquivos JSON em Python do YouTube do canal Let's Data.
 
-Link para o vídeo: https://youtu.be/jLybl-9vqZo
+Link para o vídeo: https://youtu.be/BztuEQ9ojtc
 
-Dados tabulares são lindos! Tudo bem redondinho, com linhas, colunas… mas o mundo é mais complexo que isso, padawan! Vem com Let’s Data conhecer um pouquinho mais sobre arquivos JSON, formato que tornou padrão de fato em todas as áreas de tecnologia! Como profissionais de dados nós nos deparamos muito com esse tipo de arquivo e, por isso, saber manipulá-los é primordial pra resolver problemas reais.
+Neste vídeo mostramos os princípios básicos, como fazer conversão de outros formatos e como manipular arquivos parquet. Libere esse espaço no seu disco e suba um degrau na manipulação de dados com o Let’s Data, padawan!
 
 Ao final deste vídeo você será capaz de:  
-☑️ Explicar o que é o formato JSON  
-☑️ Descrever as principais características do formato JSON  
-☑️ Detalhar o que é um arquivo do tipo chave: valor  
-☑️ Enumerar as diferenças principais de JSON e arquivos tabulares  
-☑️ Ler, converter e gravar arquivos JSON  
+☑️ Explicar o que é o formato Apache Parquet  
+☑️ Enumerar as vantagens de utilizar o arquivo Parquet  
+☑️ Detalhar as principais diferenças dos formatos orientados a linhas e orientados a colunas  
+☑️ Descrever as principais compactações do arquivo Parquet  
+☑️ Ler, converter e gravar arquivos Parquet  
